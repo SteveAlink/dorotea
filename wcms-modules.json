@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "dorotea": {
+            "name": "Dorotea",
+            "repo": "https://github.com/SteveAlink/tree/main",
+            "zip": "https://github.com/SteveAlink/archive/main.zip",
+            "summary": "an advanced WonderCMS theme created by Steve Alink.",
+            "version": "1.0.1",
+            "image": "https://raw.githubusercontent.com/SteveAlink/dorotea/main/preview.jpg"
+        }
+    }
+}
